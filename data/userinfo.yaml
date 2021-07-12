@@ -1,0 +1,5 @@
+userinf:
+  path: api/userinfo
+  headers:
+    token:
+  text:
